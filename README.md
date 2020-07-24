@@ -6,3 +6,5 @@ https://khushi-verma.github.io/Bootstrap/firstbootstrap.html
 https://khushi-verma.github.io/Bootstrap/MultipleColumnLayout.html
 
 https://khushi-verma.github.io/Bootstrap/bootstrapbuttons.html
+
+https://khushi-verma.github.io/Bootstrap/footerbar.html
