@@ -12,3 +12,5 @@ https://khushi-verma.github.io/Bootstrap/footerbar.html
 https://khushi-verma.github.io/Bootstrap/jumbotron.html
 
 https://khushi-verma.github.io/Bootstrap/naivigationbar.html
+
+https://khushi-verma.github.io/Bootstrap/thumbnails%20and%20images.html
